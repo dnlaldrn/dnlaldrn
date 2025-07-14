@@ -1,4 +1,4 @@
-<h1>Hi there' I'am Daniel<h2>
+<h1>Hi, I'am Daniel<h2>
 <sub>An aspiring front-end developer in Batangas City</sub>
 
 # 💻 Technologies and Tools:
