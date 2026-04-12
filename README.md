@@ -1,3 +1,3 @@
-<h1 align="center">secret muna tech stack</h1>
+<p1 align="center">secret muna ang tech stack</p1>
 
 
