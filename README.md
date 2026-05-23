@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi! I'm Daniel a 20 years old front-end developer . I'm looking for an internship feel free to check my projects 
+Hi! I'm Daniel, a 20-year-old front-end developer passionate about building modern, responsive, and user-friendly web applications. I enjoy creating clean interfaces and turning ideas into functional digital experiences using front-end technologies. I am currently looking for an internship opportunity where I can apply my skills, gain industry experience, and continue growing as a developer. Feel free to check out my projects to see some of the applications and work I’ve built. I’m always open to learning, collaborating, and taking on new challenges that can help me improve both personally and professionally.
 
 
 ## 💻 Tech Stack:
